@@ -1,6 +1,6 @@
 # Effective Video Mirror Detection with Inconsistent Motion Cues (CVPR2024)
-Note: Previous GutHub account access lost, this is the new official github repo of Effective Video Mirror Detection with Inconsistent Motion Cues (CVPR2024) 
-The previous github repo: https://github.com/AlexAnthonyWarren/MG-VMD<br>
+Note: Unfortunately, we have lost access to the previous GitHub Account/Repo. This is the new official github repo of Effective Video Mirror Detection with Inconsistent Motion Cues (CVPR2024) 
+<i>The previous github repo: https://github.com/AlexAnthonyWarren/MG-VMD</i><br>
 
 [Alex Warren](https://alex-warren.co.uk), [Ke Xu](https://kkbless.github.io), [Jiaying Lin](https://jiaying.link), [Gary Tam](https://sites.google.com/site/csgarykl/home?authuser=0), [Rynson W.H. Lau](https://www.cs.cityu.edu.hk/~rynson/)
 <br> Swansea University, City University of Hong Kong
