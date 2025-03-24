@@ -13,9 +13,9 @@ Note: Unfortunately, we have lost access to the previous GitHub Account/Repo. Th
 Image-based mirror detection has recently undergone rapid research due to its significance in applications such as robotic navigation, semantic segmentation and scene reconstruction. Recently, VMD-Net was proposed as the first video mirror detection technique, by modeling dual correspondences between the inside and outside of the mirror both spatially and temporally. However, this approach is not reliable, as correspondences can occur completely inside or outside of the mirrors. In addition, the proposed dataset VMD-D contains many small mirrors, limiting its applicability to real-world scenarios. To address these problems, we developed a more challenging dataset that includes mirrors of various shapes and sizes at different locations of the frames, providing a better reflection of real-world scenarios. Next, we observed that the motions between the inside and outside of the mirror are often inconsistent. For instance, when moving in front of a mirror, the motion inside the mirror is often much smaller than the motion outside due to increased depth perception. With these observations, we propose modeling inconsistent motion cues to detect mirrors, and a new network with two novel modules. The Motion Attention Module (MAM) explicitly models inconsistent motions around mirrors via optical flow, and the Motion-Guided Edge Detection Module (MEDM) uses motions to guide mirror edge feature learning. Experimental results on our proposed dataset show that our method outperforms state-of-the-arts.
 
 ## Downloads
-[🟢Online - Code & Weights](https://swanseauniversity-my.sharepoint.com/:u:/g/personal/851864_swansea_ac_uk/EZvJts8g1PtPmeKoBk_TyLEBYvm57sX8gKHYR_wfddGV5g)
+[🟢Online - Code & Weights](https://swanseauniversity-my.sharepoint.com/:f:/g/personal/851864_swansea_ac_uk/EkTeIupBfSRDql5Vv4wg7aoBzy6vo6dM-NYJ-bApZVXFnw?e=PI5ea6)
 <br>
-[🟢Online - MMD Dataset](https://swanseauniversity-my.sharepoint.com/:f:/g/personal/851864_swansea_ac_uk/EkTeIupBfSRDql5Vv4wg7aoBzy6vo6dM-NYJ-bApZVXFnw?e=k48xtJ)
+[🟢Online - MMD Dataset](https://swanseauniversity-my.sharepoint.com/:f:/g/personal/851864_swansea_ac_uk/EkTeIupBfSRDql5Vv4wg7aoBzy6vo6dM-NYJ-bApZVXFnw?e=PI5ea6)
 
 ## Citation
 ```bibtex
